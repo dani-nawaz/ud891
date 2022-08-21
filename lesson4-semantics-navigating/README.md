@@ -13,4 +13,6 @@ heading are used to emphaze not to style ![](../../../../../var/folders/t2/0_b2q
 ## review 
 Make sure you have  use meaningfull headings and link text as well as good page structure
 
+use links for links and buttons for buttons.
+
 
